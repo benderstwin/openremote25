@@ -2,7 +2,7 @@
 
 ##Install On unRaid:
 
-On unRaid, install from the Community Applications and enter the app folder location and the port for the webUI.
+On unRaid, install container by adding bender77/openremote25
 
 ##Install On Other Platforms (like Ubuntu, Synology 5.2 DSM, etc.):
 
