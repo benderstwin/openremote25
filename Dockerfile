@@ -1,7 +1,7 @@
 
 FROM phusion/baseimage:0.9.17
 
-MAINTAINER aptalca
+MAINTAINER Bender77
 
 VOLUME ["/config"]
 
